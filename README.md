@@ -20,7 +20,7 @@ Run 'main.py' and start the application.
 
 ```bash
 git clone https://github.com/SnowRabbit-TTR/GroupNotificator.git
-cd GroupNotificator_TTR
+cd GroupNotificator
 python main.py
 ```
 
